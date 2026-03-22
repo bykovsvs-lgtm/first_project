@@ -22,3 +22,5 @@
 # Allow example env file
 !.env.example
 bfcd334 (Allow tracking .env.example
+.gitignorec
+tmp_data.txt
